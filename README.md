@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1400&color=38BDF8&center=true&vCenter=true&width=680&lines=Zero+web+dev+in+June.+Shipped+an+API+pipeline+by+September.;Currently+building+PARSE;Finish+something+real%2C+then+post+it" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=E0A458&center=true&vCenter=true&width=440&height=45&lines=CS+undergrad%2C+class+of+2030" alt="" />
 </p>
 
 <p align="center">
