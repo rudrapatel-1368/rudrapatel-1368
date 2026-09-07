@@ -90,12 +90,6 @@ Working through Harvard's CS50 in C — through Week 5, psets 0–3 done. Not a 
 
 ---
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rudrapatel-1368&theme=tokyo-night&hide_border=true&area=true&radius=8" />
-</p>
-
----
-
 ## Elsewhere
 
 <p>
