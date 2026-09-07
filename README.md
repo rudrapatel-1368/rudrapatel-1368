@@ -117,5 +117,5 @@ Working through Harvard's CS50 in C — through Week 5, psets 0–3 done. Not a 
 ---
 
 <p align="center">
-  <img src="assets/footer.png" width="100%" alt="" />
+  <img src="footer.png" width="100%" alt="" />
 </p>
