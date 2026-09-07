@@ -90,13 +90,6 @@ Working through Harvard's CS50 in C — through Week 5, psets 0–3 done. Not a 
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rudrapatel-1368&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapatel-1368&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
-</p>
-
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rudrapatel-1368&theme=tokyo-night&hide_border=true&area=true&radius=8" />
 </p>
