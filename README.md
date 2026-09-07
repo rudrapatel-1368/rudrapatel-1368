@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" width="100%" alt="Rudra Patel — CS undergrad, Class of 2030" />
+  <img src="header_1.png" width="100%" alt="Rudra Patel — CS undergrad, Class of 2030" />
 </p>
 
 <p align="center">
