@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Rudra Patel — CS undergrad, Class of 2030" />
+  <img src="assets/header.png" width="100%" alt="Rudra Patel — CS undergrad, Class of 2030" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1400&color=38BDF8&center=true&vCenter=true&width=680&lines=Zero+web+dev+in+June.+Shipped+an+API+pipeline+by+September.;Currently+building+PARSE;Finish+something+real%2C+then+post+it" alt="" />
 </p>
 
 <p align="center">
@@ -113,5 +117,5 @@ Working through Harvard's CS50 in C — through Week 5, psets 0–3 done. Not a 
 ---
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="" />
+  <img src="assets/footer.png" width="100%" alt="" />
 </p>
