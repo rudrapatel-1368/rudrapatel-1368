@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=200&section=header&text=Rudra%20Patel&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20undergrad%20%C2%B7%20Class%20of%202030&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,50:1E3A8A,100:38BDF8&height=230&section=header&text=Rudra%20Patel&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=CS%20undergrad%20%C2%B7%20Class%20of%202030&descAlignY=52&descSize=16" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=CS+undergrad%2C+Class+of+2030;Backend%2C+APIs%2C+and+applied+ML;Finish+something+real%2C+then+post+it" alt="Typing SVG" />
@@ -116,4 +116,4 @@ Working through Harvard's CS50 in C — through Week 5, psets 0–3 done. Not a 
 
 <p align="center"><i>The repos are the résumé. Everything else is noise.</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:38BDF8,50:1E3A8A,100:0F172A&height=140&section=footer&animation=fadeIn" />
